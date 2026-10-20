@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+(Java+%2B+React);Spring+Boot+%7C+Node.js+%7C+REST+APIs;Building+AI+apps+with+Spring+AI%2C+RAG+%26+LangChain;Open+to+Software+Engineer+roles+%F0%9F%9A%80" alt="Typing intro: Full Stack Developer, Spring Boot, React, Spring AI, RAG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Sagan2k4&style=flat-square&color=38BDF8&label=Profile+views" alt="Profile views"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=flat-square" alt="Open to work"/>
 
 </div>
@@ -71,21 +70,6 @@ I'm **Sai Sagan**, a **Full Stack Developer** building scalable web applications
 | 📝 [**Blog Platform – Backend**](https://github.com/Sagan2k4/BlogBackend) | RESTful API for a blogging platform: posts, users, CRUD operations and authentication. | Node.js · Express · MongoDB · JWT |
 | 🎨 [**Blog Platform – Frontend**](https://github.com/Sagan2k4/BlogFrontend) | Responsive blog UI that consumes the Blog REST API. | React · JavaScript · CSS |
 | 🔧 [**Backend CRUD API**](https://github.com/Sagan2k4/Backend-curd) | Clean CRUD REST service with validation and structured routes. | Node.js · Express · REST |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sagan2k4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Sai Sagan GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagan2k4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Sagan2k4&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagan2k4&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="95%"/>
-
-</div>
 
 ---
 
